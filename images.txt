@@ -1,1 +1,1 @@
-canal/canal-server:v1.1.5
+mongo:4.0.6
