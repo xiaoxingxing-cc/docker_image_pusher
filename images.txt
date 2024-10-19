@@ -1,1 +1,1 @@
-elastic/filebeat:7.14.0
+redis:7.4.0
